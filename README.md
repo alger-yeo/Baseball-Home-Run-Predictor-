@@ -14,8 +14,6 @@ A machine learning project that predicts the number of home runs a player will h
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
