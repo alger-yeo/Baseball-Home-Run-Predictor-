@@ -46,13 +46,13 @@ This project explores different variables to predict home run counts like:
 ## Technologies Used
 
 - **Python**
-- **Pandas** – data manipulation
-- **NumPy** – numerical computation
-- **SciPy** - statistic
-- **Matplotlib & Seaborn** – data visualization
-- **Scikit-learn** – model building and evaluation
-- **feature-engine** - feature engineering
-- **Jupyter Notebook** – code development and documentation
+- **Pandas** 
+- **NumPy** 
+- **SciPy** 
+- **Matplotlib & Seaborn** 
+- **Scikit-learn** 
+- **feature-engine** 
+- **Jupyter Notebook** 
 
 ## ⚙️ Installation
 
@@ -84,7 +84,7 @@ Open the `Home_Run_Prediction_Model.ipynb` notebook to:
 
 - Load and explore the dataset
 - Train and test machine learning models
-- Preprocess data (feature scaling, missing value handling)
+- Preprocess data
 - View evaluation metrics and conclusions
 
 ## Modeling Approach
