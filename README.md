@@ -63,7 +63,7 @@ Download both the dataset and the notebook file named Home_Run_Prediction_Model.
 
 ## Results
 
-- The linear Regression Model's test data metrics outperformed the naivebaseline with MSE of 26.56, an RMSE of 5.15 and an R² of 0.60.
+- The linear Regression Model's test data metrics outperformed the naiveb aseline with MSE of 26.56, an RMSE of 5.15 and an R² of 0.60.
 
 ## Future Improvements
 
