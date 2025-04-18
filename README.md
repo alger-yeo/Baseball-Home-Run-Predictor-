@@ -48,7 +48,7 @@ This project explores different variables to predict home run counts like:
 
 ## Usage
 
-Download and open `Home_Run_Prediction_Model.ipynb` with Jupyter notebook to:
+Download both the dataset and the notebook file named Home_Run_Prediction_Model.ipynb. After downloading, open the notebook using Jupyter Notebook to:
 
 - Load and explore the dataset
 - Train and test machine learning models
