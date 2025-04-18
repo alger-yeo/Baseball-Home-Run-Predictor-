@@ -87,7 +87,7 @@ Open the `Home_Run_Prediction_Model.ipynb` notebook to:
 - Preprocess data (feature scaling, missing value handling)
 - View evaluation metrics and conclusions
 
-## 🧠 Modeling Approach
+## Modeling Approach
 
 - **Preprocessing:** StandardScaler used to normalize features.
 - **Train-Test Split:** 70/30 split for model evaluation.
@@ -97,7 +97,7 @@ Open the `Home_Run_Prediction_Model.ipynb` notebook to:
 
 - The linear Regression Model's test data metrics outperformed the naivebaseline with MSE of 26.56, an RMSE of 5.15 and an R² of 0.60.
 
-## 🔧 Future Improvements
+## Future Improvements
 
 - Incorporating additional relevant features 
 - Develop a front-end visualization dashboard
