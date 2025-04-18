@@ -57,7 +57,7 @@ Download and open `Home_Run_Prediction_Model.ipynb` with Jupyter notebook to:
 
 ## Modeling Approach
 
-- **Preprocessing:** 
+- **Preprocessing:** Trimming, EqualFrequencyDiscretiser, OrdinalEncoder, OneHotEncoder and MinMaxScaler
 - **Train-Test Split:** 70/30 split for model evaluation
 - **Model Compared:** Linear Regression and Naive Baseline
 
