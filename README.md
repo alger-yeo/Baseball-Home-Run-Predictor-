@@ -36,12 +36,6 @@ This project explores different variables to predict home run counts like:
 ## Data Source
 
 - The dataset used was sourced from MLB Statcast, containing hit-by-hit data from professional baseball games.
-- Key variables include:
-  - `launch_angle`
-  - `launch_speed` (exit velocity)
-  - `hit_distance`
-  - `hang_time`
-  - `is_home_run` (target label)
 
 ## Technologies Used
 
