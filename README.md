@@ -8,7 +8,6 @@ A machine learning project that predicts the number of home runs a player will h
 - [Features](#features)
 - [Data Source](#data-source)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Modeling Approach](#modeling-approach)
 - [Evaluation Metrics](#evaluation-metrics)
@@ -46,29 +45,6 @@ This project explores different variables to predict home run counts like:
 - **feature-engine** 
 - **Jupyter Notebook** 
 
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alger-yeo/Baseball-Home-Run-Predictor-.git
-   cd Baseball-Home-Run-Predictor-
-   ```
-
-2. Create a virtual environment and activate it:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Usage
 
