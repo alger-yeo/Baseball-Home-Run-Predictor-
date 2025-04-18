@@ -32,7 +32,7 @@ This project explores different variables to predict home run counts like:
 
 ## Data Source
 
-- The dataset used was sourced from MLB Statcast, containing hit-by-hit data from professional baseball games.
+- The dataset used was sourced from Baseball Databank, containing historical baseball.
 
 ## Technologies Used
 
@@ -57,9 +57,9 @@ Download and open `Home_Run_Prediction_Model.ipynb` with Jupyter notebook to:
 
 ## Modeling Approach
 
-- **Preprocessing:** StandardScaler used to normalize features.
-- **Train-Test Split:** 70/30 split for model evaluation.
-- **Model Compared:** Logistic Regression and Naive Baseline
+- **Preprocessing:** 
+- **Train-Test Split:** 70/30 split for model evaluation
+- **Model Compared:** Linear Regression and Naive Baseline
 
 ## Results
 
@@ -69,3 +69,12 @@ Download and open `Home_Run_Prediction_Model.ipynb` with Jupyter notebook to:
 
 - Incorporating additional relevant features 
 - Develop a front-end visualization dashboard
+
+## License
+Baseball Databank is a compilation of historical baseball data in a convenient, tidy format, distributed under Open Data terms.
+This dataset is distributed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+Most of the data is provided by the [Chadwick Baseball Bureau](http://www.chadwick-bureau.com).
+Based in part on the Lahman Baseball Database, version 2015-01-24.
+Copyright © 1996–2015 by Sean Lahman.
+Parks.csv and HomeGames.csv are derived from game logs and park codes published by [Retrosheet](http://www.retrosheet.org).
+All data is provided as-is and may not be updated regularly.
